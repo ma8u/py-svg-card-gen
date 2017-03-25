@@ -1,4 +1,4 @@
-# Py-svg-CARD-gen Project
+# Py-svg-card-gen Project
 A python kit that automates the process of generating cards in svg format based on svgwrite.
 
 # Getting Started
