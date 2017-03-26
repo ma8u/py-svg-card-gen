@@ -10,3 +10,8 @@ It reads 9 items from selected (or every) line of the csv file and outputs an sv
 ```
 ## Prerequisites
 This Project needs Python 2.x and svgwrite installed.
+
+
+## Updates
+* New Card Templates : Predifined graphic forms for printint data in (in development).
+* New Scripts to match New Card Templates. (in development).
