@@ -14,4 +14,4 @@ This Project needs Python 2.x and svgwrite installed.
 
 ## Updates
 * New Card Templates : Predifined graphic forms for printint data in (in development).
-* New Scripts to match New Card Templates. (in development).
+* New Scripts to match New Card Templates (in development).
