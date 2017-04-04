@@ -38,11 +38,11 @@ A script that has a class named card that gets 3 arguments:
 #### card(data,data_row,filename)
 
 __data__ 
-_csv file to read_
+_(csv file to read)_
 __data_row__
-_line of csv file to read_
+_(line of csv file to read)_
 __filename__
-_svg output card_
+_(svg file output card)_
 
 and has 2 methods:
 
