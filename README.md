@@ -47,9 +47,10 @@ _(svg file output card)_
 and has 2 methods:
 
 #### sqr3(self)
-_create type one svg cards for every line_
+_create type one svg cards from data_row_
+
 #### sqr3m(self)
-_create type two svg cards for every line_
+_create type two svg cards from data_row_
 
 ## Prerequisites
 This Project needs Python 2.x and svgwrite installed.
