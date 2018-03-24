@@ -1,5 +1,5 @@
-# Py-svg-card-gen Project
-A python kit that automates the process of generating card-type graphics in svg format based on svgwrite.
+# Py-svg-card-gen
+A python script that automates the process of generating card-type graphics in svg format based on svgwrite.
 
 ## Getting Started
 Py-svg-card-gen is a kit for reading csv files and creating card-type graphics on predifined templates. There are two version included, a Cmd type App that has a prompt and can be used to test your settings and a class type script that can be used in your own scripts.
